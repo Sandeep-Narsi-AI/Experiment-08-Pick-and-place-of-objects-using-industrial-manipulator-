@@ -86,7 +86,7 @@ and click on the connect icon .
 ![output](pro3.jpg)
 ### Robo Action:
 ![output](robo1.jpg)
-![output](robo2.jpg)
+![output](robo21.jpg)
 
 
 
